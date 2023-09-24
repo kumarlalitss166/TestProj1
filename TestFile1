@@ -1,0 +1,3 @@
+print('This file was created within RStudio without Git')
+print('Then uploaded to Git using GitBash')
+print('And now it is linked to both Git and RStudio')
